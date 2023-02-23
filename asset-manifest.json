@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Misraj/static/css/main.45d72724.css",
-    "main.js": "/Misraj/static/js/main.7526fd49.js",
+    "main.js": "/Misraj/static/js/main.c90a8c32.js",
     "static/js/787.45f22239.chunk.js": "/Misraj/static/js/787.45f22239.chunk.js",
     "index.html": "/Misraj/index.html",
     "main.45d72724.css.map": "/Misraj/static/css/main.45d72724.css.map",
-    "main.7526fd49.js.map": "/Misraj/static/js/main.7526fd49.js.map",
+    "main.c90a8c32.js.map": "/Misraj/static/js/main.c90a8c32.js.map",
     "787.45f22239.chunk.js.map": "/Misraj/static/js/787.45f22239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45d72724.css",
-    "static/js/main.7526fd49.js"
+    "static/js/main.c90a8c32.js"
   ]
 }
