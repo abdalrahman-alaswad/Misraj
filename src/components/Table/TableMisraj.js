@@ -112,7 +112,7 @@ const TableMisraj = () => {
                             <form className='form' onSubmit={(e) => handleSubmit(e)}>
                                 <div className="mb-3">
                                     <label htmlFor="Id" className="form-label">Id</label>
-                                    <input type="number" className="form-control" id="Id" placeholder="Enter Your Id" onChange={(e) => handleIdChange(e)} required />
+                                    <input type="text" className="form-control" id="Id" placeholder="Enter Your Id" onChange={(e) => handleIdChange(e)} required />
                                 </div>
                                 <div className="mb-3">
                                     <label htmlFor="Title" className="form-label">Title</label>
