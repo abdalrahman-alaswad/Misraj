@@ -1,0 +1,69 @@
+.table-misraj-main-container {
+    height: 100vh;
+    background-color: #fdfdfd;
+}
+
+.shadow-con {
+    width: 70%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.table-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.table {
+    width: 400px;
+}
+
+.form-conatiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form {
+    width: 70%;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .table-container {
+        height: 30%;
+
+    }
+
+    .table {
+        width: 270px;
+
+    }
+
+    .form-conatiner {
+        height: 80%;
+        margin-top: 25px;
+
+    }
+
+    .shadow-lg {
+        width: 100%;
+        height: 100%;
+    }
+
+
+}
