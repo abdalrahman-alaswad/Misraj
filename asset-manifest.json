@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Misraj.git/static/css/main.45d72724.css",
+    "main.js": "/Misraj.git/static/js/main.2f5ad283.js",
+    "static/js/787.45f22239.chunk.js": "/Misraj.git/static/js/787.45f22239.chunk.js",
+    "index.html": "/Misraj.git/index.html",
+    "main.45d72724.css.map": "/Misraj.git/static/css/main.45d72724.css.map",
+    "main.2f5ad283.js.map": "/Misraj.git/static/js/main.2f5ad283.js.map",
+    "787.45f22239.chunk.js.map": "/Misraj.git/static/js/787.45f22239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d72724.css",
+    "static/js/main.2f5ad283.js"
+  ]
+}
